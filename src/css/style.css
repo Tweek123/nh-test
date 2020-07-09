@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form__input {
+    margin-bottom: 5px;
+}
+
+.form__sumbit {
+    margin-top: 10px;
+}
