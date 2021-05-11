@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "eslint-config-standard": "^14.1.1",
-    "lodash": "^4.17.18"
+    "lodash": "^4.17.21"
   }
 }
